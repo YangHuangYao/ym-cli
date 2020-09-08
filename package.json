@@ -1,0 +1,24 @@
+{
+  "name": "ym-vue-cli",
+  "version": "1.0.0",
+  "description": "基于vue的管理系统脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel",
+  "license": "ISC",
+  "bin": {
+    "ymc": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.0.0",
+    "download-git-repo": "^3.0.2",
+    "fs": "0.0.1-security",
+    "handlebars": "^4.7.6",
+    "inquirer": "^7.3.3",
+    "log-symbols": "^4.0.0",
+    "ora": "^5.0.0"
+  }
+}
