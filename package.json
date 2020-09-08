@@ -1,5 +1,5 @@
 {
-  "name": "ym-vue-cli",
+  "name": "ymc-vue-cli",
   "version": "1.0.0",
   "description": "基于vue的管理系统脚手架",
   "main": "index.js",
